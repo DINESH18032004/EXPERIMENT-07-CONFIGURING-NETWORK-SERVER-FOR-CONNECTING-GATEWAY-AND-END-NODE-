@@ -9,7 +9,6 @@ When working with sensitive applications or files, saving progress on your local
 As a result, personnel or network clients can instantly access important data or tools while also facilitating collaboration between users. Multiple users can make changes to the same program or document for continued development over the course of a project. Via a secure login, remote users can connect to the home network.
 ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/59db9b76-ddd5-4d6a-9075-8db233f5e479)
 
-
 In the above graphic, the circle represents an organization network where a network server facilitates collaboration and file sharing between network clients (devices).
 
  The role of a network server, then, is to provide users with a set of services and access to resources on the network. These features include:
